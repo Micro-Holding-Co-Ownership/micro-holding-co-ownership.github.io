@@ -18,18 +18,9 @@ create and manage your one-person micro holding company
 * [`microholding`](https://github.com/Micro-Holding-Co-Ownership/microholding) (create and manage your one-person micro holding company)
 * [`microholding-cli`](https://github.com/Micro-Holding-Co-Ownership/microholding-cli)(use "microholding" from the command line)
 
-
 # Value Proposition
 
 ### MODEL - first draft
-
-**START**
-1. Nina 100% points
-2. List tasks done so far -  deliverables
-3. Criteria for measuring value 
-4. Distribute shares
-5. Share criteria with others
-
 
 **PROCESS OF VOTING WITH SHARES**
 
