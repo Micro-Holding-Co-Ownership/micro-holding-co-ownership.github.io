@@ -12,7 +12,7 @@ Micro Holding Co-Ownership and laws around opening and running a coop in differe
 This project is part of [squatup](https://github.com/SquatUp/roadmap/issues/6)
 
 # roadmap
-create and manage your one-person micro holding company
+Goal: create and manage your one-person micro holding company and connect to muptiple Open collectives
 
 ## modules
 * [`microholding`](https://github.com/Micro-Holding-Co-Ownership/microholding) (create and manage your one-person micro holding company)
@@ -26,8 +26,8 @@ create and manage your one-person micro holding company
 
 **One-time task**
 
-1. Task - Everyone an create a task
-2. Negotiations - We need to set the Price (% of shares) and Deliverables  for this task -  debatable (person himself or others)
+1. Task - Everyone can create a task
+2. Negotiations - We need to set the Price (% of shares) and Deliverables  for each task -  debatable (person himself or others)
 3. Contract - set the rules who pays, how much each, and when (now or after the task is done)
 4. Payment - the person who created a task, gets shares
 
@@ -44,7 +44,7 @@ create and manage your one-person micro holding company
 
 1. Every member pays % for each share she/he owns
 2. We vote on amount of membership fee (median of all given votes) - whenever there is a change, new median is applied and users are notified
-3. The whole amount is distributed equally to each member (service fee)
+3. The whole amount is distributed equally to each member (service fee) (= base payment each member receives)
 
 
 ## Status Quo
